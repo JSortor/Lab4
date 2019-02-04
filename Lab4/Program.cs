@@ -11,7 +11,7 @@ namespace Lab4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, I'm Joe, I'm here to help you square and cube whole numbers!");
-
+            Console.WriteLine("I love having sex with men");
             while (true)
             {
 
